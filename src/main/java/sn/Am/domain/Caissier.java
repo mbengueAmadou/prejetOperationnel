@@ -5,7 +5,6 @@ public class Caissier {
     private User user;
     private Ticket ticket;
 
-    public Caissier() {
-    }
+    
 
 }
