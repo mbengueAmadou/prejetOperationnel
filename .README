@@ -1,0 +1,15 @@
+DESCRIPTION
+Platforme pour la gestion de dossier de patient avec comme
+acteurs :Administration,caissier,medecin,infirmier.
+Il permet de bien gere les patient
+
+PROFILS UTILISATEUR
+docteur,cassier,medecin
+
+FONCTIONNALITES/PROFIL
+Ajouter ticker (caissier)
+ajouter patient(caissier,infirmier)
+prendre constante(infirmier)
+faire un diagnostique(medecin)
+prescrire une ordonnance(medecin)
+donner un rendez-vous(medecin)
