@@ -10,10 +10,10 @@ public class User {
     private String cni;
     private String dateNaiss;
     private String telephone;
-    private String docteur;
-    private String patient;
-    private String caissier;
-    private String infirmier;
+    private Medecin medecin;
+    private Patient patient;
+    private Caissier caissier;
+    private Infirmier infirmier;
     private String profil;
     private String pseudo;
 }
